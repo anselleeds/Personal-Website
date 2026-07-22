@@ -1,0 +1,143 @@
+
+
+
+/*This page outlines the basic elements every page will have (home button, ai disclosure, copyright, etc.)*/
+
+
+.h1 {
+    font-family: "adobe-garamond-pro", serif;
+font-weight: 250;
+font-style: normal;
+text-align: center;
+font-size: 145px;
+letter-spacing: -3px;
+margin-top: 30px;
+    
+}
+
+.h2 {
+font-family: "adobe-garamond-pro", serif;
+font-weight: normal;
+text-align: center;
+letter-spacing: 7px;
+font-size: 30px;
+margin-top: -130px;
+
+}
+
+
+    .homebutton{
+    font-family: "adobe-garamond-pro", serif;
+font-weight: 250;
+font-style: normal;
+text-align: center;
+font-size: 145px;
+letter-spacing: -3px;
+margin-top: 15px;
+border: none;
+cursor: pointer;
+background: none;
+}
+
+.lowerhomebutton {
+   font-family: "adobe-garamond-pro", serif;
+font-weight: normal;
+text-align: center;
+letter-spacing: 7px;
+font-size: 30px;
+margin-top: -130px;
+border: none;
+cursor: pointer;
+background: none;
+}
+
+/*everything above this line is at the top of the screen*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*everything below this line is at the bottom of the page*/
+
+
+
+.bottomdiv {
+text-align: center;
+display: block;
+
+}
+
+.div2 {
+
+}
+
+.fa {
+  padding: 5px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+
+.fa-linkedin {
+  background: none;
+  color: black;
+}
+
+
+.fa-instagram {
+  background: none;
+  color: black;
+}
+
+
+.fa-envelope {
+     background: none;
+  color: black;
+}
+
+.cr {
+     font-family: "adobe-garamond-pro", serif;
+    text-align: center;
+    font-size: 22px;
+}
+
+
+
+
+.aidisclo {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 10px;
+    letter-spacing: -0.5px; }
+    

@@ -1,0 +1,150 @@
+
+
+
+/*This page outlines the basic elements every page will have (home button, ai disclosure, copyright, etc.)*/
+
+
+.h1 {
+    font-family: "adobe-garamond-pro", serif;
+font-weight: 250;
+font-style: normal;
+text-align: center;
+font-size: 145px;
+letter-spacing: -3px;
+margin-top: 30px;
+    
+}
+
+.h2 {
+font-family: "adobe-garamond-pro", serif;
+font-weight: normal;
+text-align: center;
+letter-spacing: 7px;
+font-size: 30px;
+margin-top: -130px;
+
+}
+
+
+    .homebutton{
+    font-family: "adobe-garamond-pro", serif;
+font-weight: 250;
+font-style: normal;
+text-align: center;
+font-size: 145px;
+letter-spacing: -3px;
+margin-top: 15px;
+border: none;
+cursor: pointer;
+background: none;
+}
+
+.lowerhomebutton {
+   font-family: "adobe-garamond-pro", serif;
+font-weight: normal;
+text-align: center;
+letter-spacing: 7px;
+font-size: 30px;
+margin-top: -130px;
+border: none;
+cursor: pointer;
+background: none;
+}
+
+/*everything about this line is at the top of the screen*/
+
+
+.image {
+display: block;
+margin: auto;
+width: 30%;
+height: 30%;
+}
+
+
+.error {
+
+  font-family: "adobe-garamond-pro", serif;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+
+}
+
+.info {
+     font-family: "adobe-garamond-pro", serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+.button{
+font-family: "adobe-garamond-pro", serif;
+font-weight: normal;
+text-align: center;
+font-size: 30px;
+border: none;
+cursor: pointer;
+background: none;
+}
+
+.button:hover {
+    font-weight: bold;
+}
+
+.button:active {
+    text-shadow: 2px 2px 4px black;
+}
+
+.div {
+    text-align: center;
+}
+
+.caption {
+    /* Make the caption a block so it occupies its own line. */
+    display: block;
+    text-align: center;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 10px;
+    letter-spacing: -0.5px;
+    margin-top: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*everything below this line is at the bottom of the page*/
+
+.cr {
+     font-family: "adobe-garamond-pro", serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+
+.aidisclo {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 10px;
+    letter-spacing: -0.5px; }

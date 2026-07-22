@@ -1,0 +1,174 @@
+
+.h1 {
+    font-family: "adobe-garamond-pro", serif;
+font-weight: 250;
+font-style: normal;
+text-align: center;
+font-size: 145px;
+letter-spacing: -3px;
+margin-top: 30px;
+    
+}
+
+.h2 {
+font-family: "adobe-garamond-pro", serif;
+font-weight: normal;
+text-align: center;
+letter-spacing: 7px;
+font-size: 30px;
+margin-top: -130px;
+
+}
+
+.h3 {
+font-family: "adobe-garamond-pro", serif;
+font-weight: normal;
+text-align: center;
+word-spacing: 30px;
+font-size: 30px;
+}
+
+.h3b {
+font-family: "adobe-garamond-pro", serif;
+text-align: center;
+font-size: 30px;
+word-spacing: normal;
+}
+
+
+.photo {
+
+display: block;
+width: 70%;
+height: 70%;
+margin: auto;
+margin-bottom: 20px;
+}
+
+.body1 {
+     font-family: "adobe-garamond-pro", serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+.body2 {
+     font-family: "adobe-garamond-pro", serif;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 45px;
+    margin-bottom: 60px;
+}
+
+.hyperlink {
+    text-decoration: none;
+}
+
+
+.button{
+font-family: "adobe-garamond-pro", serif;
+font-weight: normal;
+text-align: center;
+word-spacing: 40px;
+font-size: 30px;
+border: none;
+cursor: pointer;
+background: none;
+
+}
+
+.homebutton{
+    font-family: "adobe-garamond-pro", serif;
+font-weight: 250;
+font-style: normal;
+text-align: center;
+font-size: 145px;
+letter-spacing: -3px;
+margin-top: 15px;
+border: none;
+cursor: pointer;
+background: none;
+}
+
+.lowerhomebutton {
+   font-family: "adobe-garamond-pro", serif;
+font-weight: normal;
+text-align: center;
+letter-spacing: 7px;
+font-size: 30px;
+margin-top: -130px;
+border: none;
+cursor: pointer;
+background: none;
+
+}
+
+.button:hover {
+    font-weight: bold;
+}
+
+.button:active {
+    text-shadow: 2px 2px 4px black;
+}
+
+.div {
+text-align: center;
+display: block;
+
+}
+
+.div2 {
+
+}
+
+.fa {
+  padding: 5px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+
+.fa-linkedin {
+  background: none;
+  color: black;
+}
+
+
+.fa-instagram {
+  background: none;
+  color: black;
+}
+
+
+.fa-envelope {
+     background: none;
+  color: black;
+}
+
+.cr {
+     font-family: "adobe-garamond-pro", serif;
+    text-align: center;
+    font-size: 22px;
+}
+
+
+
+
+.aidisclo {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 10px;
+    letter-spacing: -0.5px; }
+
+    body {
+  background-image: href:"/Users/ansel/Documents/Personal Website/flashbang-hdr.png"
+}
+    

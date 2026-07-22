@@ -1,0 +1,234 @@
+
+
+
+/*This page outlines the basic elements every page will have (home button, ai disclosure, copyright, etc.)*/
+
+
+.h1 {
+    font-family: "adobe-garamond-pro", serif;
+font-weight: 250;
+font-style: normal;
+text-align: center;
+font-size: 145px;
+letter-spacing: -3px;
+margin-top: 30px;
+    
+}
+
+.h2 {
+font-family: "adobe-garamond-pro", serif;
+font-weight: normal;
+text-align: center;
+letter-spacing: 7px;
+font-size: 30px;
+margin-top: -130px;
+
+}
+
+
+    .homebutton{
+    font-family: "adobe-garamond-pro", serif;
+font-weight: 250;
+font-style: normal;
+text-align: center;
+font-size: 145px;
+letter-spacing: -3px;
+margin-top: 15px;
+border: none;
+cursor: pointer;
+background: none;
+}
+
+.lowerhomebutton {
+   font-family: "adobe-garamond-pro", serif;
+font-weight: normal;
+text-align: center;
+letter-spacing: 7px;
+font-size: 30px;
+margin-top: -130px;
+border: none;
+cursor: pointer;
+background: none;
+}
+
+/*everything about this line is at the top of the screen*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*everything below this line is at the bottom of the page*/
+
+
+
+.bottomdiv {
+text-align: center;
+display: block;
+
+}
+
+.div2 {
+
+}
+
+.fa {
+  padding: 5px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+
+.fa-linkedin {
+  background: none;
+  color: black;
+}
+
+
+.fa-instagram {
+  background: none;
+  color: black;
+}
+
+
+.fa-envelope {
+     background: none;
+  color: black;
+}
+
+.cr {
+     font-family: "adobe-garamond-pro", serif;
+    text-align: center;
+    font-size: 22px;
+}
+
+
+
+
+.aidisclo {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 10px;
+    letter-spacing: -0.5px; }
+    
+
+.slideshow {
+background-color: black;
+list-style: none;
+z-index: 0;
+}
+
+.slideshow li {
+ animation: imageAnimation 50s linear infinite;
+ background-size: cover;
+ background-position: 50% 50%;
+ background-repeat: no-repeat;
+ height: 100%;
+ opacity: 0;
+ position: absolute;
+ left: 0;
+ top: 0;
+ width: 100%;
+ z-index: 0;
+}
+
+.slideshow li:nth-child(1) {
+    background-color: white;
+    url(/Users/ansel/Documents/Personal Website/homepage/imagepool/windmills.jpg);
+    animation-delay: 0s;
+
+}
+.slideshow li:nth-child(2) {
+    background-color: white;
+    url(/Users/ansel/Documents/Personal Website/homepage/imagepool/regatta.jpg);
+    animation-delay: 5s;
+
+}.slideshow li:nth-child(3) {
+    background-color: white;
+    url(/Users/ansel/Documents/Personal Website/homepage/imagepool/milkyway.jpg);
+    animation-delay: 10s;
+
+}.slideshow li:nth-child(4) {
+    background-color: white;
+    url(/Users/ansel/Documents/Personal Website/homepage/imagepool/muni.jpg);
+    animation-delay: 15s;
+
+}.slideshow li:nth-child(5) {
+    background-color: white;
+    url(/Users/ansel/Documents/Personal Website/homepage/imagepool/katie.jpg);
+    animation-delay: 20s;
+
+}.slideshow li:nth-child(6) {
+    background-color: white;
+    url(/Users/ansel/Documents/Personal Website/homepage/imagepool/owen.jpg);
+    animation-delay: 25s;
+
+}.slideshow li:nth-child(7) {
+    background-color: white;
+    url(/Users/ansel/Documents/Personal Website/homepage/imagepool/kitesurfing.jpg);
+    animation-delay: 30s;
+
+}.slideshow li:nth-child(8) {
+    background-color: white;
+    url(/Users/ansel/Documents/Personal Website/homepage/imagepool/skyline.jpg);
+    animation-delay: 35s;
+
+}.slideshow li:nth-child(9) {
+    background-color: white;
+    url(/Users/ansel/Documents/Personal Website/homepage/imagepool/train.jpg);
+    animation-delay: 40s;
+
+}.slideshow li:nth-child(10) {
+    background-color: white;
+    url(/Users/ansel/Documents/Personal Website/homepage/imagepool/snowplow.jpg);
+    animation-delay: 50s;
+
+}
+@keyframes ImageAnimation {
+0% {
+    opacity: 0;
+    animation-timing-function: ease;
+}
+10% {
+    opacity: 1;
+    animation-timing-function: ease;
+}
+20% {
+    opacity: 1;
+    
+}
+30% {
+    opacity: 0;
+    
+}
+}
