@@ -57,7 +57,20 @@ background: none;
 
 
 
+.h3 {
+font-family: "adobe-garamond-pro", serif;
+font-size: 35px;
+padding-left: 50px;
 
+}
+
+.description {
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 15px;
+  padding-left: 50px;
+  letter-spacing: -0.5px;
+}
 
 
 
