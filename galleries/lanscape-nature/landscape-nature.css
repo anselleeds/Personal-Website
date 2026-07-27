@@ -61,6 +61,7 @@ background: none;
 font-family: "adobe-garamond-pro", serif;
 font-size: 35px;
 padding-left: 50px;
+font-weight: normal;
 
 }
 
@@ -70,8 +71,50 @@ padding-left: 50px;
   font-size: 15px;
   padding-left: 50px;
   letter-spacing: -0.5px;
+  margin-top: -30px;
+  margin-bottom: 50px;
 }
 
+
+.photo {
+
+display: block;
+width: 60%;
+height: 60%;
+margin: auto;
+margin-bottom: 20px;
+}
+
+.caption {
+    /* Make the caption a block so it occupies its own line. */
+    display: block;
+    text-align: center;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 15px;
+    letter-spacing: -0.5px;
+    margin-top: -10px; 
+  }
+
+  .caption2 {
+    /* Make the caption a block so it occupies its own line. */
+    display: block;
+    text-align: center;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 10px;
+    letter-spacing: -0.5px;
+    margin-top: -10px; 
+    margin-bottom: 100px;
+  }
+
+  .body2 {
+     font-family: "adobe-garamond-pro", serif;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 45px;
+    margin-bottom: 60px;
+}
 
 
 
