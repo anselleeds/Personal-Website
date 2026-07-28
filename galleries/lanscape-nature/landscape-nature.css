@@ -85,6 +85,15 @@ margin: auto;
 margin-bottom: 20px;
 }
 
+.photo2 {
+
+display: block;
+width: 40%;
+height: 40%;
+margin: auto;
+margin-bottom: 20px;
+}
+
 .caption {
     /* Make the caption a block so it occupies its own line. */
     display: block;
